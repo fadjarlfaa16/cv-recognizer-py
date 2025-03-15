@@ -1,0 +1,18 @@
+The text above is the result of an OCR scanner from the CV reader we have. Please summarize the text into the following parameters:
+
+    Full Name:
+    Interest:
+    Skills:
+    Work Experience:
+    Educational Background and Major:
+    Address:
+    Portfolio:
+    Relevant Projects:
+    Summary:
+    Contact (email or phone number):
+
+Summarize the text according to the parameters listed above. If there are multiple answers, present them in bullet points for better organization. If a parameter is not available in the CV text, mark it with "-". The answers must be based on the CV text without adding any information beyond its context.
+
+For skills, list only those explicitly mentioned, inferred from projects, or derived from past experiences. The summary must be accurate and truthful according to the CV text.
+
+If the portfolio contains a Vercel platform link, provide it in full (https://) so it can be clicked and accessed. For text with unclear formatting, analyze it first before correctly writing the name. Ignore any symbols that are unrelated to the given parameters.

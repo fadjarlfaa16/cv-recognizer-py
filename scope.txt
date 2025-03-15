@@ -1,0 +1,1 @@
+Ini adalah teks yang ingin saya simpan dalam variabel.
